@@ -1,0 +1,12 @@
+package test;
+
+import org.testng.annotations.Test;
+
+public class CheckOutTest {
+	
+	@Test
+	public void test4() {
+		System.out.println("Inside Test-4");
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;element&apos; in &apos;test.WindowsExample.main(...)&apos; to &apos;elm&apos;&#x0A;- Original project: &apos;WebDriverProject&apos;&#x0A;- Original element: &apos;test.WindowsExample.main(String[]).element&apos;&#x0A;- Renamed element: &apos;element&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;element&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;test{WindowsExample.java[WindowsExample~main~\[QString;@element!775!851!786!792!QWebElement;!0!false" name="elm" references="true" stamp="1646701416257" version="1.0"/>
+</session>
